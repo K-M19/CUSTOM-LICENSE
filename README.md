@@ -1,6 +1,6 @@
 # CUSTOM-LICENSE
-This is a custom LICENSE that will always apply to my projects.
-
+This is my custom LICENSE. I always abide by the terms here and you will too if you use my software or projects.
+> Edit: May 10, 2025
 ----
 
 CUSTOM SOFTWARE LICENSE – CREATED BY K-M19(ButAa)  
